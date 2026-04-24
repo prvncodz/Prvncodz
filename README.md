@@ -6,8 +6,6 @@
 <!-- GitHub Streak Stats Card -->
 ![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true)
 
-<!---Github profile view count-->
-![18, engineer. software is just where I start.](https://count.getloli.com/get/@Prvncodz?theme=rule34)
 
 <h1 align="left">About me:</h1>
 
