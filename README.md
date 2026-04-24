@@ -6,9 +6,6 @@
 <!-- GitHub Streak Stats Card -->
 ![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true)
 
-<!-- Top Languages Card -->
-![Prvncodz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true)
-
 
 <h1 align="left">About me:</h1>
 
