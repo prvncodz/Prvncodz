@@ -10,14 +10,13 @@
 <h1 align="left">About me:</h1>
 
 - Hi,I'm Praveen,I’m a **Software Engineer** passionate about learning, building, and solving problems with code.
-- Currently i'm diving deep into the MERN stack while contributing to open-source projects, sharpening my DSA skills, and creating real-world web applications.
+- Currently i'm diving deep into the MERN stack while contributing to open-source projects, and creating real-world web applications.
 - 📩 Always open to learning, collaborating, and sharing knowledge.
 
 
 ---
 
 ### 🛠️ Languages & Tools:
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
