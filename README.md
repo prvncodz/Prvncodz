@@ -1,40 +1,49 @@
-## 📊 GitHub Stats
+# hey, I'm Praveen 👋
 
-<!-- GitHub Readme Stats Card -->
-![Prvncodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true)
+- I’m a Software Engineer passionate about learning, building, and solving problems with code.
+- started coding on a phone — neovim + tmux, no laptop. was rough. taught me to sit with something until it works.
+- now I pick a problem solve it using tech i recently learnt to make the learnings stick.
 
-<!-- GitHub Streak Stats Card -->
-![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true)
+## Language & Tools :
 
-
-<h1 align="left">About me:</h1>
-
-- Hi,I'm Praveen,I’m a **Software Engineer** passionate about learning, building, and solving problems with code.
-- Currently i'm diving deep into the MERN stack while contributing to open-source projects, and creating real-world web applications.
-- 📩 Always open to learning, collaborating, and sharing knowledge.
-
-
----
-
-### 🛠️ Languages & Tools:
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=061a23)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=061a23)
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## Currently learning :
+- Typescript
+- TanStack Query
+- software design principles
 
-### Current Mission:
-> Breaking things and learning by doing
+## Stats :
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+## Interests :
+
+reading other people's code · occasionally breaking things via issues/PRs
+improving UI/UX instincts · exploring new tools
+
+---
+
+→ always building. sometimes shipping.
 
 
 ### 🌐 Connect With Me:
